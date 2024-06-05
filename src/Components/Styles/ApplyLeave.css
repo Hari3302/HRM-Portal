@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 80px;
+    padding: 10px;
+    margin: 15px;
+ 
+}
+.flex-box{
+    width: 250px;
+    height: 200px;
+    background: rgb(42,180,237);
+    background: linear-gradient(90deg, rgba(42,180,237,1) 0%, rgb(162, 202, 243) 51%, rgb(44, 186, 221) 100%);
+    border-radius: 38px;     
+}
+.flex-box-container{
+   
+    width: 250px;
+    height: 200px;
+    /* background: linear-gradient(rgb(0, 187, 255), red) ;  */
+    background: rgb(42,180,237);
+background: linear-gradient(90deg, rgba(42,180,237,1) 0%, rgb(151, 198, 245) 51%, rgb(44, 186, 221) 100%);
+    white-space: nowrap;
+    border-radius: 38px;  
+}
+.headings{
+    display:flex;
+    flex-wrap: nowrap;
+    gap: 750px;
+}
+.numbersHead{
+        font-family:'Times New Roman', Times, serif !important;
+        font-weight: 800 !important;
+        font-size: 120% !important;
+       
+        align-items: 
+        center;
+        text-align: center;
+        padding-top: 50px;
+      
+}
+.numbersHead .numbers{
+    font-size: 350% !important;
+    font-weight: bolder;
+    color: rgba(63, 55, 55, 0.459);
+
+}

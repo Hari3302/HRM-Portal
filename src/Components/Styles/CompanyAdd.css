@@ -1,0 +1,29 @@
+.titles{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: #1976d2;
+    color: white;
+    padding: 20px;
+}
+.mods{
+    border: 1px solid white;
+    border-radius: 8%;
+    box-shadow: 0 0 0 0 12px;
+    width: 700px;
+}
+.signbtn{
+    align-items: center;
+    gap:30px;
+    margin-left: 80px;
+}
+.rghtformimg{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    
+}
+.cmpimgs{
+    width: 50%;
+    height: 40%;
+}

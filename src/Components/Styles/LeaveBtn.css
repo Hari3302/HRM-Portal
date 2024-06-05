@@ -1,0 +1,22 @@
+.select-dropdown{
+    body.modal-open { overflow: hidden; }
+}
+
+.Stack-method{
+    display: grid;
+    grid-template-columns: 49% 49%;
+    gap: 11px;
+   
+}
+
+.Reason-of-Absent{
+    
+    padding: 20px;
+
+}
+.leave_form{
+    padding: 2px;
+}
+.css-z3c6am-MuiFormControl-root-MuiTextField-root {
+    width: 100%;
+}
